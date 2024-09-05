@@ -48,12 +48,12 @@ A segurança é garantida através de **OAuth2** e **OpenID Connect** com **Iden
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/markebank.git
+    git clone https://github.com/flaviobarreto/microservices-shop.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd markebank
+    cd microservices-shop
     ```
 
 3. Configure as variáveis de ambiente necessárias no arquivo `.env` para o RabbitMQ, Identity Server e outros serviços.
